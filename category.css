@@ -1,0 +1,43 @@
+#head{
+	text-align: center;
+	scroll-behavior: 
+}
+#items{
+
+	background-color: white;
+	border-radius: 25px;
+	border: 2px solid blue;
+	text-align: center;
+	width: 80%;
+	float: right;
+	margin-right: 30px;
+	font-size: 20px;
+	
+
+
+}
+#form{
+	margin-top: 0px;
+	background-color: gray;
+	size: 90px;
+	border-radius: 25px;
+	padding: 90px;
+	
+
+
+}
+input[type=text], select {
+	width: 30%;
+	margin: 8px 0;
+	border-radius: 4px;
+padding: 10px;
+
+}
+input[type=submit]{
+	background-color: blue;
+	
+	
+	border-radius: 8px;
+padding: 10px;
+
+}
